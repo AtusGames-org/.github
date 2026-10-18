@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Parent of a bundle of issues that together deliver one player/product outcome.
-title: "[Story] "
+title: "project :: [service] :: short description "
 ---
 
 <!--
