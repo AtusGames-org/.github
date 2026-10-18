@@ -1,7 +1,7 @@
 ---
 name: Epic
 about: High-level business outcome. Part of the project's walking skeleton and parent of stories and issues.
-title: "[Epic] "
+title: "project :: [service] :: short description "
 ---
 
 <!--
