@@ -1,7 +1,7 @@
 ---
 name: Spike / Research
 about: A timeboxed investigation that answers a question. Produces a decision, not shippable code.
-title: "[Spike] "
+title: "project :: [service] :: short description "
 ---
 
 <!-- Normally around 350 words, and never more than 700. -->
