@@ -1,7 +1,7 @@
 ---
 name: Task
 about: A single, self-contained piece of work that completes a task.
-title: "[Feature/Tech-Debt] "
+title: "project :: [service] :: short description "
 ---
 
 <!--
