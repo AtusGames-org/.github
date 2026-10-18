@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Something is broken or behaves differently than intended.
-title: "[Bug] "
+title: "project :: [service] :: short description "
 ---
 
 <!-- Normally around 350 words, and never more than 700. -->
